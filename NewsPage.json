@@ -1,0 +1,49 @@
+[
+    {
+        "NewsTopic":"Day One",
+        "NewsImage":"../ICONS/library.png",
+        "NewsDetails":"Now Its On",
+        "NewsTime":"0.0.0"
+    },
+    {
+        "NewsTopic":"Day two",
+        "NewsImage":"../ICONS/library.png",
+        "NewsDetails":"Now Its On. just started to play wiith the best in the game,no man is an island.",
+        "NewsTime":"0.0.0"
+    },
+    {
+        "NewsTopic":"Day three",
+        "NewsImage":"../ICONS/library.png",
+        "NewsDetails":"Now Its On",
+        "NewsTime":"0.0.0"
+    },
+    {
+        "NewsTopic":"Day four",
+        "NewsImage":"../ICONS/library.png",
+        "NewsDetails":"Now Its On",
+        "NewsTime":"0.0.0"
+    },
+    {
+        "NewsTopic":"Day five",
+        "NewsImage":"../ICONS/library.png",
+        "NewsDetails":"Now Its On",
+        "NewsTime":"0.0.0"
+    },
+    {
+        "NewsTopic":"Day six",
+        "NewsImage":"../ICONS/library.png",
+        "NewsDetails":"Now Its On",
+        "NewsTime":"0.0.0"
+    },
+    {
+        "NewsTopic":"Day seven",
+        "NewsImage":"../ICONS/library.png",
+        "NewsDetails":"Now Its On",
+        "NewsTime":"0.0.0"
+    }, {
+        "NewsTopic":"Day eight",
+        "NewsImage":"../ICONS/library.png",
+        "NewsDetails":"Now Its On",
+        "NewsTime":"0.0.0"
+    }
+]
